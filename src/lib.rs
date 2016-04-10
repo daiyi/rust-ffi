@@ -1,4 +1,4 @@
-#[link(name = "math")]
+#[link(name = "c")]
 extern "C" {
     pub fn fmax(x:f64, y:f64) -> f64;
 }
